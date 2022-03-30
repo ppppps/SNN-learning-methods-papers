@@ -37,7 +37,7 @@
 
 ## NeurIPS
 ### 2021
-- Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks. (Gushi) [Link]https://proceedings.neurips.cc/paper/2021/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf)
+- Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks. (Gushi) [Link](https://proceedings.neurips.cc/paper/2021/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf)
     > describe: Rate-based SG. 
 
 
