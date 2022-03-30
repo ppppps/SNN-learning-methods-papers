@@ -2,8 +2,15 @@
 该仓库主要收录了顶会中SNN领域的一些论文，论文内容与代理梯度(sg)和ANN-SNN转换相关。
 
 ## must-read sg papers
+- Surrogate Gradient Learning in Spiking Neural Networks. (Mostafa) [Link](https://arxiv.org/pdf/1901.09948.pdf)
+    > describe: Rate-based sg. SNNs like RNNs
+
+- Spatio-temporal backpropagation for training high-performance spiking neural networks. (WuYujie) [Link](https://www.frontiersin.org/articles/10.3389/fnins.2018.00331/full)
+    > describe: Rate-based sg. 利用BPTT训练SNN
 
 ## must-read ann-snn works
+- Conversion of continuous-valued deep networks to efficient event-driven networks for image classification. (Rueckauer) [Link](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full)
+    > describe: Rate-based conversion. 
 
 ## ICML
 ### 2020
