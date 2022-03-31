@@ -2,10 +2,10 @@
 该仓库主要收录了顶会中SNN领域的一些论文，论文内容与代理梯度(sg)和ANN-SNN转换相关。
 
 目录
-[入门](## 入门)
+[rookie](##rookie)
 
 
-## 入门
+##rookie
 
 ## must-read sg papers
 - Surrogate Gradient Learning in Spiking Neural Networks. (Mostafa) [Link](https://arxiv.org/pdf/1901.09948.pdf)
