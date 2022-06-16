@@ -6,6 +6,9 @@
 * [进阶](#进阶)
 
 # 入门
+- 脉冲神经网络研究进展综述 (WuYujie)
+[Link](https://bar.cnki.net/bar/download/order?id=jBGETXBNdPImvx70aLAuJPYxPoFw%2bp%2bi0fIiSrcN6lX8dGg4l%2bFzx4PVrtC18X5hdIHL2Cy%2blkEQPNV7YmeogUGxVkq8YHJNz4jV3WhknTrl8E%2bCUVp5GtDTYhVF2dNUoJeGx62Ssygg68TNXJ%2b5JrigejDAar8Xqw%2f6WR22OFXUdUGh4At8VBYSvh%2fCUD5aUxRj47M2nlRmYvHb8HGXjN5olmWhdNu4L0AgxFgo9HP5LXYX1qwFXwOc1HUZT%2bTB)
+    > describe: 目前最好的SNN中文综述，入门SNN看这一篇足以。
 
 # 进阶
 
