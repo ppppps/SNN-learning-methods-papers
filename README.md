@@ -23,7 +23,7 @@
 - Conversion of continuous-valued deep networks to efficient event-driven networks for image classification. (Rueckauer) [Link](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full)
     > describe: Rate-based conversion. 
 
-Fast-Classifying, High-Accuracy Spiking Deep Networks Through Weight and Threshold Balancing. (LiuShichi) [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.721.2413&rep=rep1&type=pdf)
+- Fast-Classifying, High-Accuracy Spiking Deep Networks Through Weight and Threshold Balancing. (LiuShichi) [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.721.2413&rep=rep1&type=pdf)
     > describe: Rate-based conversion. 
 
 ## ICML
