@@ -50,7 +50,9 @@
 ### 2021
 - Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks. (Gushi) [Link](https://proceedings.neurips.cc/paper/2021/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf)
     > describe: Rate-based SG. 
-
+    
+- Deep Residual Learning in Spiking Neural Networks. (YuZhaofei) [Link]()
+    > describe: Rate-based Method. 针对SNN使用ResNet结构时无法实现identity mapping的问题，将IF神经元放入block中，实现identity mapping。 
 
 ## IJCAI
 ### 2021
@@ -59,7 +61,13 @@
 
 
 ## AAAI
+### 2019
+- Direct Training for Spiking Neural Networks: Faster, Larger, Better. (WuYujie) [Link](https://ojs.aaai.org/index.php/AAAI/article/download/3929/3807)
+    > describe: Rate-based SG. 提出NeuronNorm。是STBP的后续工作，推荐读。
+
 ### 2021
+- Going Deeper With Directly-Trained Larger Spiking Neural Networks. (WuYujie) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/17320/17127)
+    > describe: Rate-based SG. 提出tdBN。是STBP的后续工作，推荐读。
 
 ### 2022
 - Optimized Potential Initialization for Low-latency Spiking Neural Networks. (YuZhaofei) [Link](https://www.aaai.org/AAAI22Papers/AAAI-3681.BuT.pdf)
