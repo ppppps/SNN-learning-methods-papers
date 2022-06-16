@@ -23,6 +23,9 @@
 - Conversion of continuous-valued deep networks to efficient event-driven networks for image classification. (Rueckauer) [Link](https://www.frontiersin.org/articles/10.3389/fnins.2017.00682/full)
     > describe: Rate-based conversion. 
 
+Fast-Classifying, High-Accuracy Spiking Deep Networks Through Weight and Threshold Balancing. (LiuShichi) [Link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.721.2413&rep=rep1&type=pdf)
+    > describe: Rate-based conversion. 
+
 ## ICML
 ### 2020
 - Rmp-snn: Residual membrane potential neuron for enabling deeper high-accuracy and low-latency spiking neural network. (HanBing) [Link](https://openaccess.thecvf.com/content_CVPR_2020/papers/Han_RMP-SNN_Residual_Membrane_Potential_Neuron_for_Enabling_Deeper_High-Accuracy_and_CVPR_2020_paper.pdf)
@@ -51,7 +54,7 @@
 - Differentiable Spike: Rethinking Gradient-Descent for Training Spiking Neural Networks. (Gushi) [Link](https://proceedings.neurips.cc/paper/2021/file/c4ca4238a0b923820dcc509a6f75849b-Paper.pdf)
     > describe: Rate-based SG. 
     
-- Deep Residual Learning in Spiking Neural Networks. (YuZhaofei) [Link]()
+- Deep Residual Learning in Spiking Neural Networks. (YuZhaofei) [Link](https://arxiv.org/pdf/2102.04159.pdf)
     > describe: Rate-based Method. 针对SNN使用ResNet结构时无法实现identity mapping的问题，将IF神经元放入block中，实现identity mapping。 
 
 ## IJCAI
@@ -72,3 +75,8 @@
 ### 2022
 - Optimized Potential Initialization for Low-latency Spiking Neural Networks. (YuZhaofei) [Link](https://www.aaai.org/AAAI22Papers/AAAI-3681.BuT.pdf)
     > describe: Rate-based conversion. 该论文提出将神经元初始膜电压设为二分之阈值来缩小flooring error，简单好用。
+
+## ICCV
+### 2021
+- Incorporating Learnable Membrane Time Constant to Enhance Learning of Spiking Neural Networks. (YuZhaofei) [Link](https://arxiv.org/pdf/2007.05785.pdf)
+    > describe: Rate-based SG. 对膜电压时间常数采用基于梯度的方式优化。
