@@ -62,11 +62,11 @@
 
 ## AAAI
 ### 2019
-- Direct Training for Spiking Neural Networks: Faster, Larger, Better. (WuYujie) [Link](https://ojs.aaai.org/index.php/AAAI/article/download/3929/3807)
+- Direct Training for Spiking Neural Networks: Faster, Larger, Better. (WuYujie) [Link](https://arxiv.org/pdf/1809.05793.pdf)
     > describe: Rate-based SG. 提出NeuronNorm。是STBP的后续工作，推荐读。
 
 ### 2021
-- Going Deeper With Directly-Trained Larger Spiking Neural Networks. (WuYujie) [Link](https://ojs.aaai.org/index.php/AAAI/article/view/17320/17127)
+- Going Deeper With Directly-Trained Larger Spiking Neural Networks. (WuYujie) [Link](https://arxiv.org/pdf/2011.05280.pdf)
     > describe: Rate-based SG. 提出tdBN。是STBP的后续工作，推荐读。
 
 ### 2022
